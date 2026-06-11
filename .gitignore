@@ -1,0 +1,12 @@
+# Runtime state (recreated by the app; the admin is reseeded automatically)
+users.json
+bookings.json
+releases.json
+allowed_users.json
+
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+
+# Unrelated local files — do not publish
+*.pdf
